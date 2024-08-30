@@ -11,6 +11,7 @@
 		C50AA46F2C80FCC800CD7494 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C50AA46E2C80FCC800CD7494 /* ContentView.swift */; };
 		C50AA4712C80FCCB00CD7494 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C50AA4702C80FCCB00CD7494 /* Assets.xcassets */; };
 		C50AA4742C80FCCB00CD7494 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C50AA4732C80FCCB00CD7494 /* Preview Assets.xcassets */; };
+		C50AA47D2C824F5100CD7494 /* Tocando.swift in Sources */ = {isa = PBXBuildFile; fileRef = C50AA47C2C824F5100CD7494 /* Tocando.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C50AA46E2C80FCC800CD7494 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C50AA4702C80FCCB00CD7494 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C50AA4732C80FCCB00CD7494 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C50AA47C2C824F5100CD7494 /* Tocando.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tocando.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C50AA46C2C80FCC800CD7494 /* SpotifyApp.swift */,
 				C50AA46E2C80FCC800CD7494 /* ContentView.swift */,
+				C50AA47C2C824F5100CD7494 /* Tocando.swift */,
 				C50AA4702C80FCCB00CD7494 /* Assets.xcassets */,
 				C50AA4722C80FCCB00CD7494 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C50AA47D2C824F5100CD7494 /* Tocando.swift in Sources */,
 				C50AA46F2C80FCC800CD7494 /* ContentView.swift in Sources */,
 				C50AA46D2C80FCC800CD7494 /* SpotifyApp.swift in Sources */,
 			);
